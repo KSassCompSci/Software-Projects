@@ -1,4 +1,4 @@
-# Software Projects
+# Comprehensive Software Projects
 
 A collection of course projects that emphasize building complete, working software deliverables (design → implementation → testing).
 
